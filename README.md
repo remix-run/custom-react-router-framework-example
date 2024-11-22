@@ -1,6 +1,6 @@
 # React Router Custom Framework
 
-This completely-not-production-ready "framework" example shows the touch-points you can use with React Router to build your bundling and server abstractions around it like `@react-router/dev` does.
+This completely-not-production-ready "framework" example shows how to integrate React Router with custom bundling and server abstractions instead of using `@react-router/dev`.
 
 [React Router Docs](https://reactrouter.com)
 
